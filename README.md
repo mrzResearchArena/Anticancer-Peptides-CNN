@@ -2,6 +2,10 @@
 
 &nbsp;
 
+#### Abstract:
+
+&nbsp;
+
 #### A. Model Architecture:
 ![Model-Image](https://github.com/mrzResearchArena/ACP/blob/master/CNN-model.png "Multi-headed Deep-CNN")
 
