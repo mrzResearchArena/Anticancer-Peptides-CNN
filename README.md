@@ -5,7 +5,7 @@
 #### A. Model Architecture:
 ![Model-Image](https://github.com/mrzResearchArena/ACP/blob/master/CNN-model.png "Multi-headed Deep-CNN")
 
-<img src="https://github.com/mrzResearchArena/ACP/blob/master/CNN-model.png" width="500" height="400">
+<img src="https://github.com/mrzResearchArena/ACP/blob/master/CNN-model.png" width="600" height="400" class="center">
 
 &nbsp;
 &nbsp;
