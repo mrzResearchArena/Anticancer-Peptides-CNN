@@ -30,7 +30,7 @@ You can find the model Architecture from the given [link](https://github.com/mrz
 
 &nbsp;
 
-#### D. ROC Curve:
+#### E. ROC Curve:
 You can find the model Architecture from the given [link](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/tree/master/ROC-Curve).
 
 &nbsp;
