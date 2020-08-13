@@ -26,12 +26,12 @@ The raw dataset are FASTA sequences; the raw datasets are available on [reposito
 &nbsp;
 
 #### D. Model Architecture:
-You can find the model Architecture from the given [link](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/tree/master/Model-Architecture).
+You can find the model architectures from the given [link](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/tree/master/Model-Architecture).
 
 &nbsp;
 
 #### E. ROC Curve:
-You can find the model Architecture from the given [link](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/tree/master/ROC-Curve).
+You can find the ROC curves from the given [link](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/tree/master/ROC-Curve).
 
 &nbsp;
 
