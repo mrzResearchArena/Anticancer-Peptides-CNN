@@ -14,7 +14,7 @@ We will complete it after the paper writing.
 
 #### B. Datasets:
 We used three anticancer peptide dataset for our experiment. The datasets are ACP-740 [1], ACP-240 [1], and ACP-500/164 [2].
-The raw dataset are FASTA sequences; the raw datasets are available on [repository](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/tree/master/Datasets-FASTA) the all FASTA sequences. We extract feature using (A) Binary Profile Feature (BPF) Encoding, (B) Physiochemical Property based Encoding, and (C) Evolutionary Information based Encoding. The extracted data sets are also available on [repository](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/tree/master/Datasets-NumPy).
+The raw dataset are FASTA sequences; the raw datasets are available on [repository](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/tree/master/Datasets-FASTA) in FASTA format. Afterward, we extract feature using (A) Binary Profile Feature (BPF) Encoding, (B) Physiochemical Property based Encoding, and (C) Evolutionary Information based Encoding. The extracted datasets are also available on [repository](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/tree/master/Datasets-NumPy) in NumPy format.
 
 &nbsp;
 
