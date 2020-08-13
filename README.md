@@ -19,9 +19,19 @@ The raw dataset are FASTA sequences; the raw datasets are available on [reposito
 &nbsp;
 
 #### C. Implementation:
-1. [ACP-740](https://github.com/mrzResearchArena/ACP/blob/master/ACP-740-bits31.ipynb)
-2. [ACP-240](https://github.com/mrzResearchArena/ACP/blob/master/ACP-240-bit31.ipynb)
-3. [ACP-500/164](https://github.com/mrzResearchArena/ACP/blob/master/ACP-500-164.ipynb)
+1. Implementation for the [ACP-740](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/blob/master/Codes/ACP-740-bits31.ipynb) dataset.
+2. Implementation for the [ACP-240](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/blob/master/Codes/ACP-240-bit31.ipynb) dataset.
+3. Implementation for the [ACP-500/164](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/blob/master/Codes/ACP-500-164.ipynb) dataset.
+
+&nbsp;
+
+#### D. Model Architecture:
+You can find the model Architecture from the given [link](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/tree/master/Model-Architecture).
+
+&nbsp;
+
+#### D. ROC Curve:
+You can find the model Architecture from the given [link](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/tree/master/ROC-Curve).
 
 &nbsp;
 
