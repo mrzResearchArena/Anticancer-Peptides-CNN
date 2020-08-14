@@ -19,9 +19,9 @@ The raw dataset are FASTA sequences; the raw datasets are available on [reposito
 &nbsp;
 
 #### C. Implementation:
-1. Implementation for the [ACP-740](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/blob/master/Codes/ACP-740-bits31.ipynb) dataset.
-2. Implementation for the [ACP-240](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/blob/master/Codes/ACP-240-bit31.ipynb) dataset.
-3. Implementation for the [ACP-500/164](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/blob/master/Codes/ACP-500-164.ipynb) dataset.
+1. Implementation for the [ACP-740](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/blob/master/Codes/ACP-740-ROC.ipynb) dataset.
+2. Implementation for the [ACP-240](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/blob/master/Codes/ACP-240-ROC.ipynb) dataset.
+3. Implementation for the [ACP-500/164](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN/blob/master/Codes/ACP-500-164-ROC.ipynb) dataset.
 
 &nbsp;
 
