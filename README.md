@@ -8,7 +8,8 @@ We will complete it after the paper writing.
 &nbsp;
 
 #### A. Model Architecture:
-![Model-Image](https://github.com/mrzResearchArena/ACP/blob/master/CNN-model.png "Multi-headed Deep-CNN")
+<!-- ![Model-Image](https://github.com/mrzResearchArena/ACP/blob/master/CNN-model.png "Multi-headed Deep-CNN") -->
+<img src="https://github.com/mrzResearchArena/ACP/blob/master/CNN-model.png" title="Multi-headed Deep-CNN" width="150" height="100" />
 
 &nbsp;
 
