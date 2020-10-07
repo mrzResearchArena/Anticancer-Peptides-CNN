@@ -1,4 +1,4 @@
-# Multi-headed Deep-Convolutional Neural Network to Accurately Predict Anticancer peptides
+# ACP-MHCNN: An Accurate Multi-Headed Deep-Convolutional Neural Network to Predict Anticancer Peptides
 
 &nbsp;
 
