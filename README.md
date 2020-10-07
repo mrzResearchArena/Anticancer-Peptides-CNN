@@ -3,7 +3,21 @@
 &nbsp;
 
 #### Abstract:
-We will complete it after the paper writing.
+Although advancing the therapeutic alternatives for treating deadly cancers has gained much attention
+globally, still the primary methods such as chemotherapy have significant downsides and low specificity.
+Most recently, Anticancer peptides (ACPs) have emerged as a potential alternative to therapeutic
+alternatives with much fewer negative side-effects. However, the identification of ACPs through wet-lab
+experiments is expensive and time-consuming. Hence, computational methods have emerged as viable
+alternatives. During the past few years, several computational ACP identification techniques using hand-
+engineered features have been proposed to solve this problem. In this study, we propose a new multi headed
+deep convolutional neural network model called ACP-MHCNN, for extracting and combining
+discriminative features from different information sources in an interactive way. Our model extracts
+sequence, physicochemical, and evolutionary based features for ACP identification using different
+numerical peptide representations while restraining parameter overhead. It is evident through rigorous
+experiments using cross-validation and independent-dataset that ACP-MHCNN outperforms other models
+for anticancer peptide identification by a substantial margin. ACP-MHCNN outperforms state-of-the-art
+model by 6.3%, 8.6%, 3.7%, 4.0%, and 0.20 in terms of accuracy, sensitivity, specificity, precision, and
+MCC respectively.
 
 &nbsp;
 
