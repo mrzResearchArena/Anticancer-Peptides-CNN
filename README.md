@@ -23,7 +23,7 @@ MCC respectively.
 
 #### A. Model Architecture:
 <!-- ![Model-Image](https://github.com/mrzResearchArena/ACP/blob/master/CNN-model.png "Multi-headed Deep-CNN") -->
-<img src="https://github.com/mrzResearchArena/ACP/blob/master/ACP-MHCNN-model.png" class="center" title="Multi-headed Deep-CNN" width="650" height="450" />
+<img src="https://github.com/mrzResearchArena/ACP/blob/master/ACP-MHCNN-arch.jpg" class="center" title="Multi-headed Deep-CNN" width="650" height="450" />
 
 &nbsp;
 
